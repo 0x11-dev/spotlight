@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Spotlight Plus</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://spotlight.plus/public/post/</link>
     <description>Recent content in Posts on Spotlight Plus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; spotlight. All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 22 Nov 2015 10:54:54 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://spotlight.plus/public/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Allegiant Features</title>
-      <link>http://localhost:1313/post/features/</link>
+      <link>http://spotlight.plus/public/post/features/</link>
       <pubDate>Sun, 22 Nov 2015 10:54:54 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/features/</guid>
+      <guid>http://spotlight.plus/public/post/features/</guid>
       <description>
 
 &lt;h1 id=&#34;allegiant-a-kick-ass-hugo-theme:e1ec7fcfd5aa4d3ea3e990d9b707a3b4&#34;&gt;Allegiant &amp;ndash; A kick-ass Hugo theme&lt;/h1&gt;
@@ -68,13 +68,13 @@ canonifyurls = true
     
     <item>
       <title>Introducing Allegiant -- A Hugo Theme</title>
-      <link>http://localhost:1313/post/introducing-allegiant-a-hugo-theme/</link>
+      <link>http://spotlight.plus/public/post/introducing-allegiant-a-hugo-theme/</link>
       <pubDate>Sat, 21 Nov 2015 18:50:20 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/introducing-allegiant-a-hugo-theme/</guid>
+      <guid>http://spotlight.plus/public/post/introducing-allegiant-a-hugo-theme/</guid>
       <description>&lt;p&gt;So I made a WordPress Theme. And then I kept going and made a theme for Hugo, too.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/screenshot.png&#34; alt=&#34;Allegiant - Hugo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://spotlight.plus/public/img/screenshot.png&#34; alt=&#34;Allegiant - Hugo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Why? Because I&amp;rsquo;m sick of everything else on the internet. And that&amp;rsquo;s not to say that there aren&amp;rsquo;t some great themes out there. There are some truly incredible themes. And they do everything. The problem is, however, that I don&amp;rsquo;t need everything. All I need is a simple page that is aesthetically pleasing, and quick. And that&amp;rsquo;s about it. No frills, no fuss, no crazy configuration options, nothing.&lt;/p&gt;
 
